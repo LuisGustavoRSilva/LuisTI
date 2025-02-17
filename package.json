@@ -1,0 +1,23 @@
+{
+  "name": "luisti",
+  "version": "1.0.0",
+  "description": "desenvolvimento de um sistema desktop para gestão de ordem de serviço",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGustavoRSilva/LuisTI.git"
+  },
+  "author": "Luis Gustavo Rodrigues Da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuisGustavoRSilva/LuisTI/issues"
+  },
+  "homepage": "https://github.com/LuisGustavoRSilva/LuisTI#readme",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
